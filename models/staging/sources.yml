@@ -1,0 +1,13 @@
+sources:
+  - name: source_schema
+    tables:
+      - name: customers
+      - name: customer_interactions
+      - name: competitions
+      - name: finance
+      - name: inventory
+      - name: marketing
+      - name: operations
+      - name: products
+      - name: transactions
+      - name: supply_chain
